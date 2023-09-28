@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmerdeshJNair
-- 👀 I’m interested in Defence Technology
+- 👀 I’m interested in Defence and Technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game development project
 - 📫 How to reach me ameerdeshjnair@gmail.com
